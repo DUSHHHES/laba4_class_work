@@ -1,7 +1,7 @@
 Программа для создания списка тарифов фирмы грузоперевозок.
 Руководство по эксплуатации:
 
-<img width="844" height="636" alt="image" src="https://github.com/user-attachments/assets/1a92ed64-4544-42dd-8d95-5bd1cbf66710" /> - Основное окно программы
+<img width="844" height="636" alt="image" src="https://github.com/user-attachments/assets/1a92ed64-4544-42dd-8d95-5bd1cbf66710" /> /n Основное окно программы
 
 <img width="858" height="661" alt="image" src="https://github.com/user-attachments/assets/55597a12-bee5-46bf-bba6-bc4260dea90b" /> - Окно добавления тарифа
 
